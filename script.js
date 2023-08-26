@@ -64,7 +64,7 @@ function change_squares()
     let value;
     while (true)
     {
-        value = prompt("PLease enter the number (<= 100)");
+        value = prompt("Please enter the number (1 <= number <= 100)");
         value = value * 1;
         if (isNaN(value))
         {
