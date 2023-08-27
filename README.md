@@ -4,3 +4,5 @@ This is a webpage version of the toy [Etch A Sketch](https://en.wikipedia.org/wi
 When the mouse button hovers over the white screen, each square in the grid gets filled with a random color, and if you hover over a same square again, it will darken by 10%.
 
 By doing this project, I will have demonstrated my DOM manipulation and flexbox skills.
+
+Live preview: [Etch A Sketch](https://tanmayudupa.github.io/etch-a-sketch/)
